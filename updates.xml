@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="Cesar_Muebles.exe" newVersion="0.1" newMediaFileId="92" fileSize="137362944" md5Sum="1b0055514a6c0d743e4ed0652aad6e51" sha256Sum="9dc4763df8f7b6ad65c8479fc811702dd8f9180a6d32afa50b1c9c53527b9721" bundledJre="windows-x86-11.0.16.1.tar.gz" archive="false" singleBundle="false">
+    <comment language="es" />
+  </entry>
+</updateDescriptor>
