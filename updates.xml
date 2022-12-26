@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="https://download844.mediafire.com/0qpql5lbq8lg/ofxdqlpys7hf2nz/Cesar_Muebles.exe">
-  <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="Cesar_Muebles.exe" newVersion="0.58" newMediaFileId="92" fileSize="136749568" md5Sum="a2e0c1e99d96642e436f46536734bea2" sha256Sum="b117d87550dec815ede5036f376f56b5667c5ecfa322348ff988ea2c8a711e43" bundledJre="windows-x86-11.0.16.1.tar.gz" archive="false" singleBundle="false">
+<updateDescriptor baseUrl="https://download851.mediafire.com/kz5ph34qswgg/ofxdqlpys7hf2nz/Cesar_Muebles.exe">
+  <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="Cesar_Muebles.exe" newVersion="1.0" newMediaFileId="92" fileSize="49059328" md5Sum="d1aa3c7e287b78f750f901bc12cd39c3" sha256Sum="1985cb3549c2f68aadbbad1934a2543e04bd68f705fe2f42221bc278f4deb490" bundledJre="windows-x86-11.0.16.1.tar.gz" archive="false" singleBundle="false">
     <comment language="es" />
   </entry>
 </updateDescriptor>
